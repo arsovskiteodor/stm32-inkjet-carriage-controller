@@ -1,0 +1,8 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Machine-specific IDE files
+*.launch
+.settings/language.settings.xml
+SFR_export/
