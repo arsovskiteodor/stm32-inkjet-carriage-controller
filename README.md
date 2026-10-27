@@ -10,6 +10,15 @@ previous one:
    to measure the gap between printhead and paper (PPS) across the page.
 3. **Display:** draws the front and rear PPS profiles on the board's LCD after every print pass.
 
+## Results
+
+The firmware running on the STM32F429I-DISC1. Each photo shows a different print pass, with the front PPS
+profile in the top window and the rear profile in the bottom window.
+
+| Pass 1 | Pass 2 |
+|--------|--------|
+| ![LCD showing the front and rear PPS profiles after a print pass](Ex1.jpeg) | ![LCD showing the front and rear PPS profiles after another print pass](Ex2.jpeg) |
+
 ## Phase 1: Encoder tracking
 
 The carriage moves over a 5 lines/mm encoder strip at 10–20 cm/s. The two channels, A and B, are 90° apart,
