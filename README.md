@@ -17,7 +17,7 @@ profile in the top window and the rear profile in the bottom window.
 
 | Pass 1 | Pass 2 |
 |--------|--------|
-| ![LCD showing the front and rear PPS profiles after a print pass](Ex1.jpeg) | ![LCD showing the front and rear PPS profiles after another print pass](Ex2.jpeg) |
+| ![LCD showing the front and rear PPS profiles after a print pass](docs/Ex1.jpeg) | ![LCD showing the front and rear PPS profiles after another print pass](docs/Ex2.jpeg) |
 
 ## Phase 1: Encoder tracking
 
